@@ -3,9 +3,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/hicaromiguel/hicaromiguel/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h3 align="center">My social media👇🏻</h3>
