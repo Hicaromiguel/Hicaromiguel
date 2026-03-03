@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="center">My social media👇🏻</h4>
+<h3 align="center">My social media👇🏻</h3>
 
 ###
 
@@ -21,19 +21,13 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=WELCOME%20TO%20MY%20PROJECTS&descSize=35&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=WELCOME%20TO%20MY%20PROJECTS&descSize=35&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
 </div>
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://open.spotify.com/intl-pt/track/6LO5k7p3KiyHdt6odEj05h?si=16f389db5b1e420d?theme=dark&spin=false" alt="Widget with the current Spotify song"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
 </div>
 
 ###
