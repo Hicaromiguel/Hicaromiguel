@@ -2,7 +2,6 @@
 
 
 <br clear="both">
-###
 
 <h3 align="center">My social media👇🏻</h3>
 
