@@ -1,6 +1,5 @@
 <h1 align="center">Hello! My name is Hícaro👋🏻</h1>
 
-###
 
 <br clear="both">
 ###
