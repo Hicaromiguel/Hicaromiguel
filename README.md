@@ -1,27 +1,6 @@
 [README.md](https://github.com/user-attachments/files/29117477/README.md)
 # Hello, I'm Hícaro Miguel 👋
 
-```typescript
-class Developer {
-    name = "Hícaro Miguel";
-    location = "Brazil";
-
-    focus = [
-        "Developing REST APIs with Spring Boot",
-        "Learning React and TypeScript",
-    ];
-
-    goal = [
-        "Become a Full Stack Developer"
-    ];
-
-    sayHi() {
-        console.log("It's my profile in GitHub!");
-    }
-}
-
-const hicaro = new Developer();
-hicaro.sayHi();
 ```
 
 ## Tech Stack
