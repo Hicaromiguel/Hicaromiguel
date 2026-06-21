@@ -1,9 +1,6 @@
 [README.md](https://github.com/user-attachments/files/29117477/README.md)
 # Hello, I'm Hícaro Miguel 👋
 
-```
-
-## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
